@@ -4,8 +4,8 @@
 
 IPv4Util	KEYWORD1
 
-onSameNetwork		KEYWORD2
-isZeroNetworkBroadcast KEYWORD2
+onSameNetwork	KEYWORD2
+isZeroNetworkBroadcast	KEYWORD2
 getClassOfNetwork	KEYWORD2
 getNetworkAddress	KEYWORD2
 getBroadcastAddress	KEYWORD2
